@@ -1,0 +1,30 @@
+sector,block,tower,apartment,housingcomplex,people
+tower = 300 apartment
+sector = 10 block
+
+housingcomplex = 8 sector
+block = 3 tower
+apartment = 5 people
+
+housingcomplex,sector,block,tower,apartment,people
+housingcomplex = 8 sector
+sector = 10 block
+block = 3 tower
+tower = 300 apartment
+apartment = 2 people
+
+housingcomplex,sector,block,tower,apartment
+housingcomplex = 80000 apartment
+sector = 8000 apartment
+block = 800 apartment
+tower = 80 apartment
+
+university,college,class,student
+university = 6000 student
+college = 600 student
+class = 50 student
+
+college,university,class,student
+college = 600 student
+class = 50 student
+university = 6000 student
