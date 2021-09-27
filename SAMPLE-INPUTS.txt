@@ -28,3 +28,9 @@ college,university,class,student
 college = 600 student
 class = 50 student
 university = 6000 student
+
+Design a virtual tour app for a wedding venue in your hometown.
+Weddings in India are considered to be a festive occasion celebrated among families with music,
+traditional rituals, colorful costumes. Personally, during my wedding,
+we had to visit several venues in person to finalize a venue that meets our criteria.
+Building a virtual tour app of wedding venues would beneficial for users or families.
